@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"services","l":"AssemblyService"},{"p":"entities","l":"Bill"},{"p":"entities","l":"Entity"},{"p":"interfaces","l":"LegislativeAction"},{"p":"<Unnamed>","l":"Main"},{"p":"entities","l":"MLA"},{"p":"entities","l":"Official"}];updateSearchResults();
